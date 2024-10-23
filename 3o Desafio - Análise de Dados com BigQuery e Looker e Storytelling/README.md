@@ -1,26 +1,10 @@
-# Programa Desenvolve 2024
+# Análise de Dados com BigQuery e Looker e Storytelling<br>
+A análise dos dados criminais registrados em São Paulo nos anos de 2019 e 2020 revela uma tendência significativa de queda nos principais indicadores de criminalidade. Com base nas ocorrências registradas, observou-se uma redução de aproximadamente 21,5% no total de crimes em 2020, o que pode estar diretamente relacionado às medidas de isolamento social impostas pela pandemia da COVID-19.
 
-## Trilha de desenvolvimento em dados
+Entre os crimes analisados, os roubos e furtos apresentaram quedas expressivas. Em 2019, foram registrados 137.369 roubos, número que caiu para 124.552 em 2020. Já nos furtos, a redução foi ainda mais marcante, passando de 263.897 ocorrências em 2019 para 191.479 em 2020, evidenciando uma queda significativa de crimes em áreas públicas, possivelmente devido à menor circulação de pessoas.
 
-Atividades realizadas da trilha de desenvolvimento em dados do Programa Desenvolve 2024
-- Excel
-- Power BI
-- SQL (PostgreSQL)
-- Google Colab
-- Pandas com Python
-- Bigquery
-- Google Cloud
-- LGPD
+Os crimes violentos, que incluem roubos, latrocínios e homicídios dolosos, também diminuíram, tanto em números absolutos quanto na média por delegacia. As delegacias situadas no centro de São Paulo, como o 003º DP (Campos Elísios) e o 001º DP (Sé), continuaram a concentrar o maior número de registros, mas com um notável decréscimo nas ocorrências comparado ao ano anterior. Em contrapartida, algumas áreas da periferia, como o 047º DP (Capão Redondo) e o 037º DP (Campo Limpo), também aparecem com altos índices, revelando uma distribuição heterogênea da criminalidade pela cidade.
 
-## Projetos Prático - Dados (desafios)
-### 1º Projeto - Modelagem de Banco de Dados Relacional <br>
-Modelar um banco de dados relacional para representar o negócio do Boticário.  O projeto leva em consideração somente os conceitos e entidades relacionados à parte de vendas, sistema de pontuação e gestão de produtos em estoque. 
-O objetivo é identificar as entidades, relacionamentos e atributos, além de criar a modelagem lógica e física do banco de dados.
+Além disso, houve uma queda nos casos de lesão corporal dolosa, que caíram de 29.864 em 2019 para 25.758 em 2020, e nos crimes contra a vida, como homicídios dolosos e tentativas de homicídio, que também apresentaram uma ligeira redução.
 
-### 2º Projeto - Análise de Dados e Predição com Python e Pandas<br>
-Realizar uma análise completa usando Python e a biblioteca Pandas numa base de dados de preços de aluguéis em São Paulo. Utilizar regressão linear para modelar uma relação entre variáveis do conjunto de dados. 
-O objetivo é aprender a importar dados, limpar, explorar, visualizar e tirar conclusões a partir dos dados, além de ajustar um modelo de regressão linear e avaliar seu desempenho.
-
-### 3º Projeto - Análise de Dados com BigQuery e Looker e Storytelling<br>
-Realizar uma análise de dados de crimes ocorridos em São Paulo usando o BigQuery para consultas, criar consultas SQL complexas para apresentar insights de dados e o Looker para visualização e geração de relatórios. 
-O objetivo é criar painéis interativos e apresentar insights de dados.
+Em resumo, a análise aponta para uma queda generalizada nos índices criminais em 2020, com destaque para os crimes de rua como furtos e roubos. Esses números podem refletir os impactos das restrições de mobilidade causadas pela pandemia, mas também indicam a necessidade de um acompanhamento contínuo para entender melhor as dinâmicas criminais e seus desdobramentos em um cenário pós-pandêmico.
