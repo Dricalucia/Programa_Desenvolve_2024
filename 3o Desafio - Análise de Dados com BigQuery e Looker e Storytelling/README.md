@@ -18,6 +18,6 @@ A média de crimes violentos por delegacia, incluindo roubo, latrocínio e homic
 
 Os casos de homicídio doloso e tentativas de homicídio também tiveram pequenas reduções entre 2019 e 2020.
 
-Conclusão:
+## Conclusão:
 
 Entre 2019 e 2020, observou-se uma redução significativa de 21,51% no total de registros de crimes em São Paulo. Essa queda reflete os impactos das restrições de mobilidade causadas pela pandemia da COVID-19, que trouxe mudanças profundas na dinâmica social e econômica, impactando diretamente as taxas de criminalidade. Isto indica a necessidade de um acompanhamento contínuo para entender melhor as dinâmicas criminais e seus desdobramentos em um cenário pós-pandêmico.
